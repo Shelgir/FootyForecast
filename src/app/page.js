@@ -22,7 +22,7 @@ export default function Home() {
         <div className="w-1/3">
           <p className=" mb-3">
             Footy Forecast will create a Big Data model that can forecast
-            football players' and teams' performances in forthcoming games based
+            football players and teams performances in forthcoming games based
             on how they performed in previous games.
           </p>
           <button className="btn btn-primary">Enquire</button>
